@@ -1,5 +1,4 @@
 Nombre del proyecto: PONG
-Grupo #15
 Integrante:
     Miguel Antonio Parrado Pardo
 
