@@ -13,3 +13,5 @@ Ejecutar los siguientes comandos para instalar las librerias:
 python get-pip.py to install pip
 
 pip install turtle
+pip install requests
+
